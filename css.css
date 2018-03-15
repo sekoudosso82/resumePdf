@@ -1,0 +1,66 @@
+/* Global styles
+------------------------------------*/
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+a {
+    color: #EF233C;
+    padding: 5px;
+    margin: -1px;
+    display: inline-block;
+}
+a:hover {
+  text-decoration: none;
+}
+h1, h2, h3, h4,  p {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    }
+
+}
+h2 {
+  font-size: 40px;
+  margin-top: 0;
+  color: red;
+}
+p {
+    font-size: 18px;
+}
+.F-makeup {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 5px;
+  overflow: hidden;
+}
+.H-makeup {
+  width:100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+
+
+/* Header & Footer
+------------------------------------*/
+header,
+footer {
+  background: #2B2D42;
+  color: #8D99AE;
+}
+header h1,{
+  color: #EDF2F4;
+  
+}
+
+
+/* Header styles only */
+header {
+    padding: 5px;
+}
+
+/* Footer styles only */
+footer {
+  text-align: center;
+}
+
